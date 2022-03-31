@@ -1,4 +1,4 @@
-# callc
+# calcent-frontend
 
 ## Project setup
 ```
